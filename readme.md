@@ -3,7 +3,7 @@
 'Ik wordt 18' is a school project voor 'vopro' by a group of students from Techniek College Rotterdam.
 
 ## We use Laravel for our project
-
+<br>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
