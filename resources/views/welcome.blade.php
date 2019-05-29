@@ -2,7 +2,7 @@
 <head>
     <title>
 {{--        Ruben - {{ config('app.name', 'Laravel') }}--}}
-        Home
+        Home :)
     </title>
 </head>
 @section('content')
