@@ -1,6 +1,6 @@
 ## Our project
 
-'Ik word 18' is a school project voor 'vopro' by a group of students from Techniek College Rotterdam.
+'Ik word 18' is a school project for 'vopro' by a group of students from Techniek College Rotterdam.
 
 ## We use Laravel for our project
 <br>
